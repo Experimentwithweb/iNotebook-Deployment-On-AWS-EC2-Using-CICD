@@ -10,6 +10,7 @@ const Home = (props) => {
   const {showAlert} = props
   return (
     <div>
+     <h1> iNotebook homepage </h1>
       <Notes showAlert={showAlert} /> 
     </div>
   );
