@@ -8,7 +8,7 @@ const About = () => {
 
   return (  //render method of about component
     <div>
-      This is About first commit
+     <h1> iNotebook app stores your notes in the cloud securely </h1>
     </div>
   )
 }
