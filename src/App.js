@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
       
  
- <h1> Welcome 2 Home page first commit</h1>
+ <h1> Welcome 2 Home page first commit added second commit</h1>
       </header>
     </div>
   );
