@@ -39,6 +39,7 @@ const Login = (props) => {
 
   return (
     <div className="mt-3">
+    <h1 >Welcome to Homepage of iNotebook</h1>
       <h1 >Login to continue to use iNotebook</h1>
       <form onSubmit={handleSubmit}>
         <div className="mb-3">
